@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Git commands
+cd /Users/shalim/github/hello-world/hello-world
+git status
+git add .
+git commit -m "my fantastic new features"
+git push
+
+
 ## Available Scripts
 
 In the project directory, you can run:
