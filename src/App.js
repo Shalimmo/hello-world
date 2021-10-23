@@ -11,6 +11,7 @@ function App() {
           Shalim Mora es la MAXIMA.
           <hr />
           Edit <code>src/App.js</code> and save to reload.
+          Lawrence is the best :)
         </p>
         <a
           className="App-link"
