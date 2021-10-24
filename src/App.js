@@ -10,9 +10,9 @@ function App() {
         <p>
           Shalim Mora es la MAXIMA.
           <hr />
-          Edit <code>src/App.js</code> and save to reload.
-          Lawrence is the best :)
         </p>
+        <br />
+        <p>Lawrence is the best :)</p>
         <a
           className="App-link"
           href="https://reactjs.org"
