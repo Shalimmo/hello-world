@@ -1,22 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
 
+import Header from './components/header/Component';
+import Footer from './components/footer/Component';
+import Home from './pages/home/Component';
+
+import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Shalim Mora es lo MAXIMO.
-          <hr />
-        </p>
-        <br />
-        <p>Lawrence is the best :)</p>
-        
-      </header>
-    </div>
-  );
+      <div className="container-fluid p-0">
+        <Header />
+        <Home />
+        <Footer />
+      </div>
+    );
 }
 
 export default App;
