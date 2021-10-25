@@ -47,8 +47,24 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Linux
+## Git
 
+```bash
+git clone https://github.com/Shalimmo/hello-world.git
+
+git branch  # see what branch you're on
+git status  # see whether there are un-committed changes in your local repo
+git pull    # pull any new commit from your remote repo
+
+git checkout master # switch to the master branch
+git checkout -b my-new-branch master # create a new branch from master
+
+git add .   # add all modified files to the next pending local commit
+git commit -m "my reason for commiting this code"
+git push    # push all local commits to the remote repo.
+```
+
+## Linux
 
 ```bash
 ls -lha  # generar lista
