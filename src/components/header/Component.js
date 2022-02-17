@@ -7,7 +7,7 @@ class Header extends Component {
     render() {
         return(
             <header key="app-header" >
-                <p>This is the header</p>
+                <p>Shalim Mora</p>
             </header>
         );
     }
