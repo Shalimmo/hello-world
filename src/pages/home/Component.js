@@ -14,11 +14,10 @@ class Home extends Component {
                     <header className="App-header">
                         <img src={logo} className="App-logo" alt="logo" />
                         <p>
-                        Shalim Mora es lo MAXIMO.
                         <hr />
                         </p>
                         <br />
-                        <p>Lawrence is the best :)</p>
+                        <p>Love you Lawrence ❤️</p>
                     </header>
                 </div>
             </React.Fragment>
